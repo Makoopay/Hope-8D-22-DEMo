@@ -295,7 +295,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: LIGHT
+  m_Text: Top
 --- !u!222 &457076336
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -373,7 +373,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: OXYGEN
+  m_Text: Bottom
 --- !u!222 &667475990
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -807,7 +807,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SUNLIGHT
+  m_Text: Middle
 --- !u!222 &905797410
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -885,7 +885,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CARBON DIOXIDE
+  m_Text: All at once
 --- !u!222 &1135125589
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1388,7 +1388,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'What does chlorophyll in a leaf trap?
+  m_Text: 'If there are 3 parts of a lake (top, middle and bottom) what part will
+    freeze first in winter?
+
 
 '
 --- !u!222 &1780529042
